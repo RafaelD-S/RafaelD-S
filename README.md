@@ -10,10 +10,10 @@
 
 <section align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD-S&layout=donut&locale=pt-br&theme=merko&bg_color=00000000" />
+    <img height=200px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelD-S&layout=donut&locale=pt-br&theme=merko&bg_color=00000000" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200px src="https://github-readme-stats.vercel.app/api?username=RafaelD-S&hide=contribs&show_icons=true&theme=merko&bg_color=00000000&locale=pt-br" />
+    <img height=200px align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelD-S&hide=contribs&show_icons=true&theme=merko&bg_color=00000000&locale=pt-br" />
   </a>
 </section>
 
