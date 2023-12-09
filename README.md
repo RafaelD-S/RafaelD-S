@@ -36,7 +36,7 @@
   
 - 🔭 Atualmente trabalhando em meus projetos pessoais como <a href="https://github.com/RafaelD-S/Naruto-API"> Naruto API <a/> e meu<a href="https://github.com/RafaelD-S/Portifolio"> Portifolio <a/>
 - 🌱 Estou aprendeno UI Design pela Origamid e aprofundando meus conhecimentos em React na prática
-- 📫 Vamos nos conectar? <a href=""> Linkedin <a/>
+- 📫 Vamos nos conectar? <a href="https://www.linkedin.com/in/rafaeld-s/" target="_blank"> Linkedin <a/>
 - 😄 Pronomes: Ele / Dele
 - ⚡ Fato divertido: Sou um grande fã de um bom e velho RPG de mesa
 </section>
