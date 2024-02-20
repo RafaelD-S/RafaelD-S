@@ -3,8 +3,9 @@
 </h1>
 
 <h3 align="center">
-  Eu me chamo Rafael Dantas e atualmente estudo tecnologias Front-End e Design!
+  Eu me chamo Rafael Dantas, programador Front-End, aspirante a Designer e estudante de ADS no IFBA.
 </h3>
+
 
 ###
 
