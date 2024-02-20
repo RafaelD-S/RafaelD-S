@@ -36,7 +36,7 @@
 <section>
   
 - 🔭 Atualmente trabalhando em meus projetos pessoais como <a href="https://github.com/RafaelD-S/Naruto-API"> Naruto API <a/> e <a href="https://github.com/RafaelD-S/GamerHubD-S"> GamerHubD-S <a/>
-- 🌱 Estou aprendeno UI Design pela Origamid e aprofundando meus conhecimentos em React na prática
+- 🌱 Estou aprendeno UI Design pela Origamid e estudando Análise e Desenvolvimento de sistemas pelo IFBA.
 - 📫 Vamos nos conectar? <a href="https://www.linkedin.com/in/rafaeld-s/" target="_blank"> Linkedin <a/>
 - 😄 Pronomes: Ele / Dele
 - ⚡ Fato divertido: Sou um grande fã de um bom e velho RPG de mesa
