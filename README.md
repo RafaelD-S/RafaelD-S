@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Eu me chamo Rafael Dantas. Sou programador Front-End, aspirante a Designer e estudante de ADS no IFBA!
+  Eu me chamo Rafael Dantas. Sou programador Front-End na BTG Pactual e estudante de ADS no IFBA!
 </h3>
 
 
@@ -36,8 +36,8 @@
 
 <section>
   
-- 🔭 Atualmente trabalhando em meus projetos pessoais como <a href="https://github.com/RafaelD-S/Naruto-API"> Naruto API <a/> e <a href="https://github.com/RafaelD-S/GamerHubD-S"> GamerHubD-S <a/>
-- 🌱 Estou aprendeno UI Design pela Origamid e estudando Análise e Desenvolvimento de sistemas pelo IFBA.
+- 🔭 Atualmente trabalhando como programador front end em React no Banco BTG Pactual<a/>
+- 🌱 Estou aprendeno React pela Origamid e estudando Análise e Desenvolvimento de sistemas pelo IFBA.
 - 📫 Vamos nos conectar? <a href="https://www.linkedin.com/in/rafaeld-s/" target="_blank"> Linkedin <a/>
 - 😄 Pronomes: Ele / Dele
 - ⚡ Fato divertido: Sou um grande fã de um bom e velho RPG de mesa
