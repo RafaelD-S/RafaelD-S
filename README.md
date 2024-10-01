@@ -28,8 +28,10 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="Rafa-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="Rafa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="Rafa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
+  <img align="center" alt="Rafa-Storybook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" />        
 </div>
 
 ##
@@ -37,7 +39,7 @@
 <section>
   
 - 🔭 Atualmente trabalhando como programador front end em React no Banco BTG Pactual<a/>
-- 🌱 Estou aprendeno React pela Origamid e estudando Análise e Desenvolvimento de sistemas pelo IFBA.
+- 🌱 Estou desenvolvendo minhas habilidades front end através do meu trabalho e de projetos por fora como o <a href="https://github.com/RafaelD-S/Que-Aula" target="_blank">Que Aula<a/>.
 - 📫 Vamos nos conectar? <a href="https://www.linkedin.com/in/rafaeld-s/" target="_blank"> Linkedin <a/>
 - 😄 Pronomes: Ele / Dele
 - ⚡ Fato divertido: Sou um grande fã de um bom e velho RPG de mesa
