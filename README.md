@@ -39,8 +39,9 @@
 
 <section>
   
-- 🔭 Atualmente trabalhando como programador front end em React no Banco BTG Pactual<a/>
+- 🔭 Atualmente trabalhando como programador front end em React no Banco BTG Pactual e estudando Análise<a/>
 - 🌱 Estou desenvolvendo minhas habilidades front end através do meu trabalho e de projetos por fora como o <a href="https://github.com/RafaelD-S/Que-Aula" target="_blank">Que Aula<a/>.
+- 📖 Graduando em Análise e Desenolvimento de Sistemas através do Instituto Federal da Bahia.
 - 📫 Vamos nos conectar? <a href="https://www.linkedin.com/in/rafaeld-s/" target="_blank"> Linkedin <a/>
 - 😄 Pronomes: Ele / Dele
 - ⚡ Fato divertido: Sou um grande fã de um bom e velho RPG de mesa
