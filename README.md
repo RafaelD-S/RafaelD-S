@@ -51,7 +51,7 @@
 
 ##
 
-> Tecnologias Outras Tecnologias
+> Outras Tecnologias
 
 <div style="display: inline_block">    
   <img align="center" alt="Rafa-postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
